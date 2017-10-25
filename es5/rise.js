@@ -26,5 +26,5 @@ if (a) {
   function bar() {
     console.log(2)
   }
-}
+} // 错误
 
